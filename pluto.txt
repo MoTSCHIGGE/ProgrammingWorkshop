@@ -1,1 +1,2 @@
-This is another planet!
+
+It is also a planet!
